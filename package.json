@@ -1,0 +1,10 @@
+{
+  "homepage": "https://github.com/ConfidentBit/JSON-CSV-Converter-Secure-Online",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
